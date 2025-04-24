@@ -11,5 +11,8 @@ def sub(a,b):
 print(sub(10,5))
 
 
+def multiply(a,b):
+    return a * b
 
+print(multiply(10,5))
 
