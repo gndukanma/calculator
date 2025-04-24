@@ -1,4 +1,4 @@
-def add(a,b):
+def (a,b):
     return a * b
 
 
