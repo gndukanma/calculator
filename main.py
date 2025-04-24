@@ -1,5 +1,15 @@
-def calc(a,b):
+def add(a,b):
     return a + b
 
 
-print(calc(10,5))
+print(add(10,5))
+
+
+def sub(a,b):
+    return a - b
+
+print(sub(10,5))
+
+
+
+
