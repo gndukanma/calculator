@@ -9,5 +9,7 @@ def sub(a,b):
 
 print(sub(10,5))
 
-def div(a,b):
+def mult(a,b):
     return a / b
+
+print(mult(10,5))
